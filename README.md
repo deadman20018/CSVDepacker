@@ -1,5 +1,8 @@
 CSVDepacker - Estrazione di una riga da un file CSV in base a una chiave di ricerca e un indice di colonna.
 
+Assunzione:
+    Il seguente programma è stato fatto in maniera case sensitive.
+
 Utilizzo:
     Search <fileCSV> <indiceColonna> <chiaveRicerca>
 Argomenti:
