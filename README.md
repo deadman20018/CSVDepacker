@@ -16,4 +16,4 @@ Test:
     Per i test sul programma c'è sia l'esempio dato nella mail ma anche degli altri creati da me per verificare la validità del codice. Questi si possono trovare nella cartella test, nel file Test.bat. Per eseguire i test basta accedere alla cartella dove si ha installato il programma tramite una powershell eseguire i comandi:
 
     cd ./test
-    cd ./Test.bat
+    ./Test.bat
