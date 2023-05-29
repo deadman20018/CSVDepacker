@@ -24,7 +24,7 @@ Funzionalità:
 
 Dipendenze:
 
-- CsvHelper: È necessario installare il pacchetto NuGet "CsvHelper" per la lettura e la scrittura dei file CSV.
+    CsvHelper: È necessario installare il pacchetto NuGet "CsvHelper" per la lettura e la scrittura dei file CSV.
 
 Test:
 
