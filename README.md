@@ -1,7 +1,7 @@
 CSVDepacker - Estrazione di una riga da un file CSV in base a una chiave di ricerca e un indice di colonna.
 
 Utilizzo:
-    CSVDepacker <fileCSV> <indiceColonna> <chiaveRicerca>
+    Search <fileCSV> <indiceColonna> <chiaveRicerca>
 Argomenti:
     <fileCSV>: Percorso del file CSV da cui estrarre la riga.
     <indiceColonna>: Indice della colonna su cui eseguire la ricerca (0-based).

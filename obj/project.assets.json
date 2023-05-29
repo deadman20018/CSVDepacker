@@ -51,9 +51,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mrbor\\Dropbox\\PC\\Documents\\CSVDepackerCSCoolShop\\CSVDepackerCSCoolShop.csproj",
-      "projectName": "CSVDepackerCSCoolShop",
-      "projectPath": "C:\\Users\\Mrbor\\Dropbox\\PC\\Documents\\CSVDepackerCSCoolShop\\CSVDepackerCSCoolShop.csproj",
+      "projectUniqueName": "C:\\Users\\Mrbor\\Dropbox\\PC\\Documents\\CSVDepackerCSCoolShop\\Search.csproj",
+      "projectName": "Search",
+      "projectPath": "C:\\Users\\Mrbor\\Dropbox\\PC\\Documents\\CSVDepackerCSCoolShop\\Search.csproj",
       "packagesPath": "C:\\Users\\Mrbor\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Mrbor\\Dropbox\\PC\\Documents\\CSVDepackerCSCoolShop\\obj\\",
       "projectStyle": "PackageReference",
