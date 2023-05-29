@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O6QG2Gnu+TSFpiDLQ5LL5XjyRwazoeSanvZqU/BiJ9yQTwNtfORO5Mr2Un7pr531yHOiYXUOAJGw00Zz0xxeXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mrbor\\Dropbox\\PC\\Documents\\CSVDepackerCSCoolShop\\CSVDepackerCSCoolShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mrbor\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
